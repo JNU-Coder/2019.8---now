@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "自动轨迹绘制", "自动轨迹绘制.pyproj", "{D14A343A-C65D-4C47-8D26-3C7C47B8F72B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14A343A-C65D-4C47-8D26-3C7C47B8F72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14A343A-C65D-4C47-8D26-3C7C47B8F72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF431C7-46C1-4E55-9F63-B1D88C0F4562}
+	EndGlobalSection
+EndGlobal

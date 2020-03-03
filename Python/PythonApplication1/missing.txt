@@ -1,0 +1,297 @@
+array=[12,'klkjl',6,'cas',12.9966]
+for index,a in enumerate(array):
+    print(index,a)
+    c=1
+print("kok"if c==1 else"230")
+print('''\n\n
+\n
+\n
+\n''')
+for i in range(5):
+ print(i)
+counter = 10
+print('\n\n')
+while counter > 0:
+ counter=counter-1
+ if (counter%3)!=0:
+    continue
+ print(counter)
+print('''\n\n
+\n
+\n
+\n''')
+try:
+ answer=12/0;
+ print(answer)
+except:
+ print("error!")
+try:
+ userInput1=int(input("please input a number:"))
+ userInput2=int(input("Please input another number:"))
+ answer=userInput1/userInput2
+ print("the answer is ",answer)
+ myFile=open("missing.txt",'rw')
+except ValueError:
+ print("Error:You did not input a number")
+except ZeroDivisionError:
+ print("Error:cannot divided by 0")
+except Exception as e:
+ print("Unknown error: ",e)
+x=2
+y=3
+import prime
+prime.ex(x,y)
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
+This will be appended.
+python is fun!
